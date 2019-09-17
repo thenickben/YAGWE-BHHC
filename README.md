@@ -1,4 +1,15 @@
+[//]: # (Image References)
+
+[logo]: https://github.com/pytrainai/gridworld/blob/master/assets/logo.png
+[example1]: https://github.com/pytrainai/gridworld/blob/master/figures/example_1.png "Grid for example 1"
+[example2]: https://github.com/pytrainai/gridworld/blob/master/figures/example_2.png "Grid for example 2"
+[example3]: https://github.com/pytrainai/gridworld/blob/master/figures/example_3.png "Grid for example 3"
+
 # (Yet Another) Grid World !
+
+## PyTrain team
+
+![logo]
 
 ### Introduction
 
@@ -29,6 +40,12 @@ The environment, once instantiated, allow for the agent to navigate towards the 
 
 2. Run the test script or the sample notebook to see a demonstration of different grids:
 
+![Example 1][example1]
+
+![Example 2][example2]
+
+![Example 3][example3]
+
 
 ### Roadmap
 
@@ -41,6 +58,6 @@ Next versions are planning to include:
  - Connected grids (in order to allow Hierarchical learning)
 
 
-### Collaboration and cite
+### Collaboration and cites
 
-You are more than welcome to colaborate! Please feel free to reach me out at pytrainteams@gmail.com. If you modify this code or use it for personal purposes don't forget to cite ;)
+You are more than welcome to colaborate! Please feel free to reach me out at pytrainteam@gmail.com. If you modify this code or use it for personal purposes don't forget to cite ;)

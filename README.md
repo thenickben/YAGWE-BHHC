@@ -9,6 +9,8 @@
 
 ## (Yet Another Grid World Environment (but, hey, highly customizable!))
 
+by Nick Ben (PytrainAI founder, assistant VP and HR manager (assistant)/facility sub-manager. Also a vice hat-trick skills "mentor, speaker and influencer" :-)
+
 ### Introduction
 
 This is a simple but highly customizable implementation of a Grid World in Python using Matplotlib and following the spirit of OpenAI Gym environments.

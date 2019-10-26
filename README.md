@@ -5,11 +5,9 @@
 [example2]: https://github.com/pytrainai/gridworld/blob/master/figures/example_2.png "Grid for example 2"
 [example3]: https://github.com/pytrainai/gridworld/blob/master/figures/example_3.png "Grid for example 3"
 
-# (Yet Another) Grid World !
+# YAGWE(BHHC)
 
-## PyTrain team
-
-![logo]
+## (Yet Another Grid World Environment (but, hey, highly customizable!))
 
 ### Introduction
 
